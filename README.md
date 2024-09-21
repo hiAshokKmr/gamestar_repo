@@ -1,7 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # gamestar_repo
 flutter gamestar repository
 =======
+=======
+>>>>>>> 4674eb56f19554b31eea4e839716e20e2a48bdf7
 # gamestar
 
 A new Flutter project.
@@ -18,4 +21,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+<<<<<<< HEAD
 >>>>>>> 4674eb5 (gamestar initial commit)
+=======
+>>>>>>> 4674eb56f19554b31eea4e839716e20e2a48bdf7
